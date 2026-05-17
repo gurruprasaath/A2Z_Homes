@@ -2,7 +2,7 @@ import { useState, useEffect } from 'react';
 import { 
   Sparkles, Droplets, Bug, Menu, X, Phone, Mail, MapPin, 
   ShieldCheck, HelpCircle, ChevronDown, ChevronUp, 
-  MessageSquare, Calculator, Layers, Award, Clock, ChevronRight, Check, CheckCircle, Star
+  MessageSquare, Calculator, Layers, Award, Clock, ChevronRight, CheckCircle, Star
 } from 'lucide-react';
 import { Logo } from './components/Logo';
 
