@@ -222,7 +222,7 @@ export default function App() {
           style={{ clipPath: 'polygon(15% 0, 100% 0, 100% 100%, 0 100%)' }}
         >
           <img 
-            src="../public/istockphoto-1474780481-1024x1024.jpeg" 
+            src="./istockphoto-1474780481-1024x1024.jpeg" 
             alt="White house with red/pink roof" 
             className="w-full h-full object-cover scale-102 hover:scale-105 transition-transform duration-700"
           />
